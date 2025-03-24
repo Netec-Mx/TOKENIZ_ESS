@@ -11,18 +11,18 @@ Al finalizar la práctica, serás capaz de:
 
 
 ### Tarea 1. Explorar Etherscan
-**Paso 1.** 1.	Acceder a la página web https://etherscan.io/ desde su navegador. Le recomendamos que utilice Google Chrome en este programa. 
+**Paso 1.** Acceder a la página web https://etherscan.io/ desde su navegador. Le recomendamos que utilice Google Chrome en este programa. 
 
 ![Screenshoot](../images/2Imagen1.png)
 
 > *Etherscan: Etherscan es una plataforma que permite explorar y analizar la cadena de bloques de Ethereum. Es una de las herramientas más populares para aprender los conceptos básicos de la blockchain.*
 
-Paso 2. Deslizarse hacia abajo para poder visualizar las transacciones que se realizan en la blockchain de Ethereum en tiempo real. 
+**Paso 2.** Deslizarse hacia abajo para poder visualizar las transacciones que se realizan en la blockchain de Ethereum en tiempo real. 
 En la parte izquierda podemos visualizar los bloques de transacciones integrados a la cadena de bloques y sus validadores, a la derecha el desglose de las transacciones individuales.
 
 ![Screenshoot](../images/2Imagen2.png)
 
-Paso 3. Para explorar la parte de los bloques, ingresamos seleccionando el número de bloque.
+**Paso 3.** Para explorar la parte de los bloques, ingresamos seleccionando el número de bloque.
 
 ![Screenshoot](../images/2Imagen3.png)
 
