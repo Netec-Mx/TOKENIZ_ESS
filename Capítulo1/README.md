@@ -6,7 +6,7 @@ Al finalizar la práctica, serás capaz de:
 - Crear una ID digital pública.
 
 ## Duración aproximada:
-- 12 minutos.
+- 7 minutos.
 
 ## Aviso importante:
 El ecosistema blockchain evoluciona rápidamente, con constantes innovaciones y actualizaciones tecnológicas. Durante este programa, trabajaremos con herramientas y recursos externos actuales del mercado para proporcionarte una experiencia práctica y realista.
