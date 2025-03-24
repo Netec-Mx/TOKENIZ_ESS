@@ -50,7 +50,7 @@ En la parte izquierda podemos visualizar los bloques de transacciones integrados
 
 **9. Dificultad** La dificultad para añadir un nuevo bloque. En este contexto Ethereum paso de ser una red de minería a una red de riesgo por lo que actualmente la dificultad es nula. 
 
-### Tarea 3. Explorar el contenido de las transacciones.
+### Tarea 3. Explorar el contenido de las transacciones
 
 **Paso 1.** Ingresar a transactions para explorar el contenido de las transacciones realizadas en este bloque.
 
