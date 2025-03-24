@@ -1,4 +1,4 @@
-# Nombre del laboratorio 
+# Práctica 1. Creación de una ID Web3
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
@@ -20,7 +20,7 @@ Paso 1. Acceder a la página web https://metamask.io desde su navegador. Le reco
 
 Paso 2. Cuando haya accedido a la página web, hacer clic en el botón "Download now" para descargar la extensión.
 
-
+![Screenshot](Imagen1.png)
 
 Paso 3. <!-- Añadir instrucción -->
 
