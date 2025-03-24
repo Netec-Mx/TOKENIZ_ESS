@@ -16,13 +16,14 @@ Aunque nos esforzamos por mantener nuestras guías al día, es posible que encue
 ## Instrucciones 
 
 ### Tarea 1. Descargar la extensión MetaMask en su navegador Chrome
-Paso 1. Acceder a la página web https://metamask.io desde su navegador. Le recomendamos que utilice Google Chrome en este programa, sobre todo cuando vaya a utilizar estas herramientas. 
 
-Paso 2. Cuando haya accedido a la página web, hacer clic en el botón **Download now** para descargar la extensión.
+**Paso 1.** Acceder a la página web https://metamask.io desde su navegador. Le recomendamos que utilice Google Chrome en este programa, sobre todo cuando vaya a utilizar estas herramientas. 
+
+**Paso 2.** Cuando haya accedido a la página web, hacer clic en el botón **Download now** para descargar la extensión.
 
 ![Screenshot](../images/Imagen1.png)
 
-Paso 3. En la pestaña *Chrome*, seleccionar **Install MetaMask for Chrome** para instalarla.
+**Paso 3.** En la pestaña *Chrome*, seleccionar **Install MetaMask for Chrome** para instalarla.
 
 ![Screenshoot](../images/Imagen2.png)
 
@@ -36,21 +37,21 @@ Cuando se haya instalado en su navegador, se le redireccionará a la página de 
 
 ### Tarea 2. Crear una cuenta
 
-Paso 1. Para hacer esta actividad, crearemos una cuenta nueva. Si quiere utilizar una cuenta existente, debe importar su wallet.
+Para hacer esta actividad, crearemos una cuenta nueva. Si quiere utilizar una cuenta existente, debe importar su wallet.
 
 ![Screenshoot](../images/Imagen5.png)
 
-Paso 1. Puede elegir si desea participar o no en el sistema de intercambio de información de MetaMask; para ello, seleccione "Acepto" o "No, gracias" respectivamente.
+**Paso 1.** Puede elegir si desea participar o no en el sistema de intercambio de información de MetaMask; para ello, seleccione "Acepto" o "No, gracias" respectivamente.
 
 ![Screenshoot](../images/Imagen6.png)
 
-Paso 2. Crear una contraseña.
+**Paso 2.** Crear una contraseña.
 
 ![Screenshoot](../images/Imagen7.png)
 
 La frase secreta de respaldo es un componente fundamental del sistema, ya que no existe una entidad central que pueda restablecer la contraseña si la olvida. No la pierda, por favor. 
 
-Paso 3. Hacer clic para acceder a las palabras y guárdelas exactamente en el mismo orden en su dispositivo.
+**Paso 3.** Hacer clic para acceder a las palabras y guárdelas exactamente en el mismo orden en su dispositivo.
 
 ![Screenshoot](../images/Imagen8.png)
 
